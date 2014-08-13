@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "author": "Abhas Mittal",
   "main": "index.js",
+  "homepage": "https://github.com/mittalabhas1/dacal",
   "repository": {
     "type": "git",
     "url": "git@github.com:mittalabhas1/dacal.git"
