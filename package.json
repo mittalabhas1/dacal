@@ -8,6 +8,7 @@
     "type": "git",
     "url": "git@github.com:mittalabhas1/dacal.git"
   },
+  "license": "MIT",
   "keywords": [
     "day calculator",
     "date",
