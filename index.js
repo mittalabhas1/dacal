@@ -20,7 +20,7 @@ function dacal (date, month, year) {
     ;
 
     leftOver = (year - (year % 4)) / 4;
-    total = year + months.month + date + leftOver
+    total = year + months.month + date + leftOver;
 
     if (year % 4 == 0) {
         total--;
