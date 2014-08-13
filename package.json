@@ -1,0 +1,22 @@
+{
+  "name": "dacal",
+  "description": "Calculate day from a known date",
+  "version": "0.0.1",
+  "author": "Abhas Mittal",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mittalabhas1/dacal.git"
+  },
+  "keywords": [
+    "day calculator",
+    "date",
+    "day"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/mittalabhas1/dacal/issues"
+  }
+}
