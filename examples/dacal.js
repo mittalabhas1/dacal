@@ -1,4 +1,4 @@
-var dacal = require('dacal'),
+var dacal = require('..'),
     date,
     month,
     year,
